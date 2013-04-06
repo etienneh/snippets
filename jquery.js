@@ -188,6 +188,10 @@ $("div.col").each(function(){
 $("div.col").height(max_height);
 
 
+/* REPLACE WORD IN STRING 
+	================================================== */
+var el = $('#id');
+el.html(el.html().replace(/word/ig, ''));
 
 
 
