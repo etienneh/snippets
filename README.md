@@ -1,4 +1,4 @@
 snippets
 ========
-jquery
-css
+- jquery
+- css
